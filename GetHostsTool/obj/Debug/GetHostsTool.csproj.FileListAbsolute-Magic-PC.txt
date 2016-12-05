@@ -1,0 +1,11 @@
+E:\work\OneDrive\CODE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GetHostsTool.exe.config
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\bin\Debug\GetHostsTool.exe.config
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\bin\Debug\GetHostsTool.exe
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\bin\Debug\GetHostsTool.pdb
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HostsLoader.resources
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\GetHostsTool.Properties.Resources.resources
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\GetHostsTool.csproj.GenerateResource.Cache
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\GetHostsTool.exe
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\GetHostsTool.pdb
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\bin\Debug\Resources\3-e827b458.png
+E:\work\OneDrive\CODE\GetHosts\WindowsFormsApplication1\obj\Debug\GetHostsTool.csprojResolveAssemblyReference.cache
